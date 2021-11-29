@@ -1,0 +1,15 @@
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/bin/Debug/net5.0/DPRN2_U3_A3_JOMV.deps.json
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/bin/Debug/net5.0/DPRN2_U3_A3_JOMV.runtimeconfig.json
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/bin/Debug/net5.0/DPRN2_U3_A3_JOMV.runtimeconfig.dev.json
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/bin/Debug/net5.0/DPRN2_U3_A3_JOMV.dll
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/bin/Debug/net5.0/ref/DPRN2_U3_A3_JOMV.dll
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/bin/Debug/net5.0/DPRN2_U3_A3_JOMV.pdb
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/obj/Debug/net5.0/DPRN2_U3_A3_JOMV.csproj.AssemblyReference.cache
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/obj/Debug/net5.0/DPRN2_U3_A3_JOMV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/obj/Debug/net5.0/DPRN2_U3_A3_JOMV.AssemblyInfoInputs.cache
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/obj/Debug/net5.0/DPRN2_U3_A3_JOMV.AssemblyInfo.cs
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/obj/Debug/net5.0/DPRN2_U3_A3_JOMV.csproj.CoreCompileInputs.cache
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/obj/Debug/net5.0/DPRN2_U3_A3_JOMV.dll
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/obj/Debug/net5.0/ref/DPRN2_U3_A3_JOMV.dll
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/obj/Debug/net5.0/DPRN2_U3_A3_JOMV.pdb
+/Users/jonathanvalencia/Projects/DPRN2_U3_A3_JOMV/DPRN2_U3_A3_JOMV/obj/Debug/net5.0/DPRN2_U3_A3_JOMV.genruntimeconfig.cache

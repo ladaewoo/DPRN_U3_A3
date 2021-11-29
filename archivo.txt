@@ -1,0 +1,10 @@
+Cinema S.A. de C.V. 26/11/2021
+--------------------------------------
+Pelicula: Película 2
+Boleto: #1
+Clasificación: B Para mayores de 15 años
+Sala: 2
+Precio: $40
+--------------------------------------
+Total: $400
+

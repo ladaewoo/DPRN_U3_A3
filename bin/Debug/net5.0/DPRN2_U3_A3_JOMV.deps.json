@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DPRN2_U3_A3_JOMV/1.0.0": {
+        "runtime": {
+          "DPRN2_U3_A3_JOMV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DPRN2_U3_A3_JOMV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
